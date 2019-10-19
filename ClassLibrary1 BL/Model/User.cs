@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary1_BL.Model
 {
+    [Serializable]
     public class User
     {/// <summary>
     /// User
